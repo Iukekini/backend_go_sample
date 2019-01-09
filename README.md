@@ -60,7 +60,7 @@ The classifier training data was not perfect for this scenario. Since an amazon 
 
 ### Problems / Questions / Frustrations 
 
-Please feel free to give me a call 808-896-8715 or email me at justindaw@gmail.com
+Please feel free to open an issue. 
 
 ### Open Source References
 
